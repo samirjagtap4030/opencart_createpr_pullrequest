@@ -1,1 +1,1 @@
-"Add to Cart functionality - Version 1" 
+"Add to Cart functionality - Version 2 (with validation)" 
